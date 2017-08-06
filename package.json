@@ -1,0 +1,22 @@
+{
+  "name": "@asapzacy/test_npm_package",
+  "version": "0.0.1",
+  "description": "npm package tutorial",
+  "main": "app.js",
+  "scripts": {
+    "test": "mocha --reporter spec"
+  },
+  "engines": {
+    "node" ">=8.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/asapzacy/test_npm_package.git"
+  },
+  "author": "Zac Arellano",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/asapzacy/test_npm_package/issues"
+  },
+  "homepage": "https://github.com/asapzacy/test_npm_package#readme"
+}
